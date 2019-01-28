@@ -1,3 +1,4 @@
+#This is to learn how to version control projects with git.
 # mycode
 Learning to track my code
 # mycode (Project Title)
