@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+#This is to have user enter IP Address
 user_input = input('Please enter an IPv4 IP address: ')
 
 ##The line below creates a single string that is passed to print()
